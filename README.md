@@ -8,6 +8,7 @@
 ## 步骤
 1. 在main.storyboard中，使用两个UIView,一个原来头部的button ，另一个用来管理UIViewController子控制器
 2. 然后在头部的view添加三个button,也可以用代码来生成；
+
 ![image](http://upload-images.jianshu.io/upload_images/9242195-ce619db2d964bb84.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 3. 创建首页，搜索，个人，三个UIViewController，并使用addChildViewController添加到self中；
